@@ -1,4 +1,4 @@
-// 관리 화면에서 내보낸 파일 (2026. 10. 22. 오후 9:30:53)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 23. 08:00:06)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,22 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 37,
+      "name": "자동 전동 캔오프너",
+      "cat": "주방",
+      "desc": "버튼 하나로 캔 뚜껑을 자동으로 열어주는 전동 오프너",
+      "img": "",
+      "status": "public",
+      "links": {
+        "default": "https://link.coupang.com/a/h4k2SWVmbk",
+        "youtube": "https://link.coupang.com/a/h4k3yx4esK",
+        "instagram": "https://link.coupang.com/a/h4k38jOdIO",
+        "facebook": "https://link.coupang.com/a/h4k4HuVXcy",
+        "tiktok": "https://link.coupang.com/a/h4k48fskcD",
+        "threads": "https://link.coupang.com/a/h4k5IqIwKa"
+      }
+    },
     {
       "no": 36,
       "name": "자동 밀봉 스마트 쓰레기통",
