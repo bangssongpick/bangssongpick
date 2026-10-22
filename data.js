@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 23. 08:00:06)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 23. 08:29:36)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 38,
+      "name": "자동 거품 손세정기",
+      "cat": "욕실",
+      "desc": "손을 가까이 대면 센서가 감지해 거품이 자동으로 나오는 손세정기",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/h4m5R6VkhE",
+        "youtube": "https://link.coupang.com/a/h4m7g6lYmi",
+        "instagram": "https://link.coupang.com/a/h4m70hbzd6",
+        "facebook": "https://link.coupang.com/a/h4m8ql5r5g",
+        "tiktok": "https://link.coupang.com/a/h4m8PqVwD6",
+        "threads": "https://link.coupang.com/a/h4m9c4QEjQ"
+      },
+      "publish_at": "2026-10-25T17:50+09:00"
+    },
     {
       "no": 37,
       "name": "자동 전동 캔오프너",

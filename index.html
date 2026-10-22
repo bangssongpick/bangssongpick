@@ -82,7 +82,15 @@ function imgFail(el){const n=el.dataset.n;if(!n){el.remove();return}
   const i=+(el.dataset.i||0)+1;if(i>=EXTS.length){el.remove();return}
   el.dataset.i=i;el.src=`images/${n}.${EXTS[i]}`}
 let newest=new Set();
-function visible(){return (S.products||[]).filter(p=>p.status!=='hidden')}
+/* BSP_SCHEDULE_V1: publish_at이 있으면 공개시각 전까지 숨기고 이후 자동 노출 */
+function isProductVisible(p){
+  if(p.publish_at){
+    const t=Date.parse(p.publish_at);
+    return Number.isFinite(t)&&Date.now()>=t;
+  }
+  return p.status!=='hidden';
+}
+function visible(){return (S.products||[]).filter(isProductVisible)}
 function render(){
   const all=visible(); newest=new Set([...all].sort((a,b)=>b.no-a.no).slice(0,3).map(p=>p.no)); const q=document.getElementById('q').value.trim().toLowerCase();
   const cats=['전체',...new Set(all.map(p=>p.cat).filter(Boolean))];
@@ -107,6 +115,7 @@ document.getElementById('foot').textContent='가격과 재고는 판매처에서
 document.getElementById('q').addEventListener('input',render);
 document.getElementById('chips').addEventListener('click',e=>{const b=e.target.closest('.chip');if(b){cat=b.dataset.c;render()}});
 render();
+setInterval(()=>{if((S.products||[]).some(p=>p.publish_at))render()},30000);
 </script>
 </body>
 </html>
