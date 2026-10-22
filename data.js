@@ -1,4 +1,4 @@
-// 관리 화면에서 내보낸 파일 (2026. 10. 22. 오후 8:35:48)
+// 관리 화면에서 내보낸 파일 (2026. 10. 22. 오후 9:30:53)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,22 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 36,
+      "name": "자동 밀봉 스마트 쓰레기통",
+      "cat": "생활",
+      "desc": "버튼 하나로 봉투 밀봉부터 새 봉투 세팅까지",
+      "img": "",
+      "status": "public",
+      "links": {
+        "default": "https://link.coupang.com/a/h2HuReg192",
+        "youtube": "https://link.coupang.com/a/h3B8DyKqJg",
+        "instagram": "https://link.coupang.com/a/h3B7zY9CH6",
+        "facebook": "https://link.coupang.com/a/h3B4XjEN3s",
+        "tiktok": "https://link.coupang.com/a/h3B62mNgzs",
+        "threads": "https://link.coupang.com/a/h3B6efIkmW"
+      }
+    },
     {
       "no": 35,
       "name": "전동 채소·고추 슬라이서",
