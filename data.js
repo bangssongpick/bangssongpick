@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 23. 08:29:36)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 24. 17:38:31)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 39,
+      "name": "미니 핸디 무선청소기",
+      "cat": "청소",
+      "desc": "차량 문틈과 컵홀더 등 좁은 틈새의 먼지와 부스러기를 간편하게 청소",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/h6FdYbc2HQ",
+        "youtube": "https://link.coupang.com/a/h6FewLTzyK",
+        "instagram": "https://link.coupang.com/a/h6FeYng0MC",
+        "facebook": "https://link.coupang.com/a/h6Ffl7G4qW",
+        "tiktok": "https://link.coupang.com/a/h6FfLa69ls",
+        "threads": "https://link.coupang.com/a/h6Ff7sac7U"
+      },
+      "publish_at": "2026-10-26T17:50+09:00"
+    },
     {
       "no": 38,
       "name": "자동 거품 손세정기",
