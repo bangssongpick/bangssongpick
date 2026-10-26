@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 24. 17:38:31)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 26. 21:18:27)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 40,
+      "name": "40",
+      "cat": "뷰티",
+      "desc": "버튼 한 번으로 엉킨 머리카락을 간편하게 정리하는 헤어브러시",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iaeP6TiYxw",
+        "youtube": "https://link.coupang.com/a/iaeQsFSpqu",
+        "instagram": "https://link.coupang.com/a/iaeQReFEiW",
+        "facebook": "https://link.coupang.com/a/iaeQ9Fx3mK",
+        "tiktok": "https://link.coupang.com/a/iaeRtVJNe0",
+        "threads": "https://link.coupang.com/a/iaeRPAMh08"
+      },
+      "publish_at": "2026-10-27T17:50+09:00"
+    },
     {
       "no": 39,
       "name": "미니 핸디 무선청소기",
