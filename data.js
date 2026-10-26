@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 26. 21:45:53)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 27. 00:44:18)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 42,
+      "name": "강아지 발 세척기",
+      "cat": "반려동물",
+      "desc": "산책 후 더러워진 강아지 발을 간편하게 씻어주는 발 세척기",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iahnpVs69s",
+        "youtube": "https://link.coupang.com/a/iatxKmVNjU",
+        "instagram": "https://link.coupang.com/a/iatx74FeoK",
+        "facebook": "https://link.coupang.com/a/iatyrnFFUO",
+        "tiktok": "https://link.coupang.com/a/iatyN6ItA4",
+        "threads": "https://link.coupang.com/a/iatzblGAfs"
+      },
+      "publish_at": "2026-10-29T17:50+09:00"
+    },
     {
       "no": 41,
       "name": "자동 메이크업 브러시 세척기",
