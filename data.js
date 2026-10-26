@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 26. 21:18:27)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 26. 21:45:53)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 41,
+      "name": "자동 메이크업 브러시 세척기",
+      "cat": "뷰티",
+      "desc": "메이크업 브러시를 자동으로 회전 세척하고 건조할 수 있는 브러시 세척기",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iafyfOGO96",
+        "youtube": "https://link.coupang.com/a/iagNmANvPw",
+        "instagram": "https://link.coupang.com/a/iagNIhXOmq",
+        "facebook": "https://link.coupang.com/a/iagN3FhHyu",
+        "tiktok": "https://link.coupang.com/a/iagOu2712q",
+        "threads": "https://link.coupang.com/a/iagOSrTRQa"
+      },
+      "publish_at": "2026-10-28T17:50+09:00"
+    },
     {
       "no": 40,
       "name": "40",
