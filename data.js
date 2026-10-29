@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 29. 15:27:58)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 29. 15:31:56)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 44,
+      "name": "초미니 키링 디지털 카메라",
+      "cat": "가전디지털",
+      "desc": "손에 쏙 들어오는 레트로 감성 초미니 카메라. 키링처럼 달고 다니며 사진과 영상을 촬영할 수 있는 제품.",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/ieDRi9djum",
+        "youtube": "https://link.coupang.com/a/ieOIInkACq",
+        "instagram": "https://link.coupang.com/a/ieOJh6ltRI",
+        "facebook": "https://link.coupang.com/a/ieOJI6mgi4",
+        "tiktok": "https://link.coupang.com/a/ieOJ81JXWK",
+        "threads": "https://link.coupang.com/a/ieOKwwpQ2C"
+      },
+      "publish_at": "2026-10-31T17:50+09:00"
+    },
     {
       "no": 43,
       "name": "치즈 모양 말랑이 스퀴시",
