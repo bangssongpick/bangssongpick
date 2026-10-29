@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 29. 15:31:56)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 30. 00:09:34)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 45,
+      "name": "접이식 LED 캠핑 랜턴",
+      "cat": "캠핑·아웃도어",
+      "desc": "날개 세 개를 펼쳐 조명으로 사용할 수 있는 접이식 LED 랜턴. 접어서 휴대할 수 있고 흰색과 빨간색 조명 장면이 특징인 제품.",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/ifm8sUTcxU",
+        "youtube": "https://link.coupang.com/a/ifpIBwwujY",
+        "instagram": "https://link.coupang.com/a/ifpI3lMqT6",
+        "facebook": "https://link.coupang.com/a/ifpJsBedfU",
+        "tiktok": "https://link.coupang.com/a/ifpJRES4xV",
+        "threads": "https://link.coupang.com/a/ifpKob51zw"
+      },
+      "publish_at": "2026-11-01T17:50+09:00"
+    },
     {
       "no": 44,
       "name": "초미니 키링 디지털 카메라",
