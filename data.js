@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 27. 00:44:18)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 29. 15:27:58)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 43,
+      "name": "치즈 모양 말랑이 스퀴시",
+      "cat": "완구·취미",
+      "desc": "치즈처럼 생긴 연노란색 말랑이 장난감! 손으로 누르고 주무르면 모양이 변하는 재미있는 스퀴시.",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/ieKPVC8nBd",
+        "youtube": "https://link.coupang.com/a/ieOvGqz2J2",
+        "instagram": "https://link.coupang.com/a/ieOv5kw1aC",
+        "facebook": "https://link.coupang.com/a/ieOwpA0ZBk",
+        "tiktok": "https://link.coupang.com/a/ieOwLUGBpY",
+        "threads": "https://link.coupang.com/a/ieOw7gh8WO"
+      },
+      "publish_at": "2026-10-30T17:50+09:00"
+    },
     {
       "no": 42,
       "name": "강아지 발 세척기",
