@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 15:54:41)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 16:38:19)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 50,
+      "name": "레이저 프로젝션 가상 키보드",
+      "cat": "디지털·전자기기",
+      "desc": "책상 위에 빨간색 키보드를 투사하는 휴대용 레이저 가상 키보드",
+      "img": "images/50.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iichBilNp6",
+        "youtube": "https://link.coupang.com/a/iic8M2mchg",
+        "instagram": "https://link.coupang.com/a/iic9O3ueXc",
+        "facebook": "https://link.coupang.com/a/iidaV5TvCC",
+        "tiktok": "https://link.coupang.com/a/iidafhXMgS",
+        "threads": "https://link.coupang.com/a/iidaAfDh2O"
+      },
+      "publish_at": "2026-11-06T17:50+09:00"
+    },
     {
       "no": 49,
       "name": "가정용 미니 솜사탕 제조기",
