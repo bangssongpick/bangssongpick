@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 12:39:49)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 12:43:12)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 47,
+      "name": "휴대용 미니 포토프린터",
+      "cat": "가전디지털",
+      "desc": "스마트폰 속 사진을 간편하게 출력할 수 있는 휴대용 미니 포토프린터",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/ihVJWBo8w8",
+        "youtube": "https://link.coupang.com/a/ihWxAh9YQe",
+        "instagram": "https://link.coupang.com/a/ihWx5oipsO",
+        "facebook": "https://link.coupang.com/a/ihWyuXB6U8",
+        "tiktok": "https://link.coupang.com/a/ihWySRyiAK",
+        "threads": "https://link.coupang.com/a/ihWzjIYpau"
+      },
+      "publish_at": "2026-11-03T17:50+09:00"
+    },
     {
       "no": 46,
       "name": "동전 훔치는 고양이 저금통",
