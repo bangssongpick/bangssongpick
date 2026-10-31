@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 12:43:12)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 13:31:53)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 48,
+      "name": "자동 도미노 기차",
+      "cat": "완구·취미",
+      "desc": "기차가 움직이며 알록달록한 도미노를 자동으로 세워주는 장난감",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/ihZTmkibfM",
+        "youtube": "https://link.coupang.com/a/ihZ1CmXeRo",
+        "instagram": "https://link.coupang.com/a/ihZ1WQCZFY",
+        "facebook": "https://link.coupang.com/a/ihZ2hCs4OG",
+        "tiktok": "https://link.coupang.com/a/ihZ2DFJjWe",
+        "threads": "https://link.coupang.com/a/ihZ2W8Xj8C"
+      },
+      "publish_at": "2026-11-04T17:50+09:00"
+    },
     {
       "no": 47,
       "name": "휴대용 미니 포토프린터",
