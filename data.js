@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 13:31:53)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 15:54:41)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -7,11 +7,28 @@ window.SITE = {
   },
   "products": [
     {
+      "no": 49,
+      "name": "가정용 미니 솜사탕 제조기",
+      "cat": "주방가전",
+      "desc": "설탕으로 아이들과 파스텔 솜사탕을 만들 수 있는 미니 솜사탕 제조기",
+      "img": "images/49.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/ih9gD7IEkC",
+        "youtube": "https://link.coupang.com/a/ih97WUrmvI",
+        "instagram": "https://link.coupang.com/a/ih98vntxZZ",
+        "facebook": "https://link.coupang.com/a/ih98N7ecWO",
+        "tiktok": "https://link.coupang.com/a/ih99nllaZU",
+        "threads": "https://link.coupang.com/a/ih984rjqVw"
+      },
+      "publish_at": "2026-11-05T17:50+09:00"
+    },
+    {
       "no": 48,
       "name": "자동 도미노 기차",
       "cat": "완구·취미",
       "desc": "기차가 움직이며 알록달록한 도미노를 자동으로 세워주는 장난감",
-      "img": "",
+      "img": "images/48.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/ihZTmkibfM",
@@ -28,7 +45,7 @@ window.SITE = {
       "name": "휴대용 미니 포토프린터",
       "cat": "가전디지털",
       "desc": "스마트폰 속 사진을 간편하게 출력할 수 있는 휴대용 미니 포토프린터",
-      "img": "",
+      "img": "images/47.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/ihVJWBo8w8",
@@ -45,7 +62,7 @@ window.SITE = {
       "name": "동전 훔치는 고양이 저금통",
       "cat": "완구·취미",
       "desc": "동전을 올리면 상자 속 고양이가 나와 동전을 가져가는 장난감 저금통",
-      "img": "",
+      "img": "images/46.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/ihS4NehfOu",
@@ -62,7 +79,7 @@ window.SITE = {
       "name": "접이식 LED 캠핑 랜턴",
       "cat": "캠핑·아웃도어",
       "desc": "날개 세 개를 펼쳐 조명으로 사용할 수 있는 접이식 LED 랜턴. 접어서 휴대할 수 있고 흰색과 빨간색 조명 장면이 특징인 제품.",
-      "img": "",
+      "img": "images/45.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/ifm8sUTcxU",
@@ -79,7 +96,7 @@ window.SITE = {
       "name": "초미니 키링 디지털 카메라",
       "cat": "가전디지털",
       "desc": "손에 쏙 들어오는 레트로 감성 초미니 카메라. 키링처럼 달고 다니며 사진과 영상을 촬영할 수 있는 제품.",
-      "img": "",
+      "img": "images/44.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/ieDRi9djum",
@@ -96,7 +113,7 @@ window.SITE = {
       "name": "치즈 모양 말랑이 스퀴시",
       "cat": "완구·취미",
       "desc": "치즈처럼 생긴 연노란색 말랑이 장난감! 손으로 누르고 주무르면 모양이 변하는 재미있는 스퀴시.",
-      "img": "",
+      "img": "images/43.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/ieKPVC8nBd",
@@ -113,7 +130,7 @@ window.SITE = {
       "name": "강아지 발 세척기",
       "cat": "반려동물",
       "desc": "산책 후 더러워진 강아지 발을 간편하게 씻어주는 발 세척기",
-      "img": "",
+      "img": "images/42.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/iahnpVs69s",
@@ -130,7 +147,7 @@ window.SITE = {
       "name": "자동 메이크업 브러시 세척기",
       "cat": "뷰티",
       "desc": "메이크업 브러시를 자동으로 회전 세척하고 건조할 수 있는 브러시 세척기",
-      "img": "",
+      "img": "images/41.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/iafyfOGO96",
@@ -147,7 +164,7 @@ window.SITE = {
       "name": "원터치 셀프클리닝 헤어브러시",
       "cat": "뷰티",
       "desc": "버튼 한 번으로 엉킨 머리카락을 간편하게 정리하는 헤어브러시",
-      "img": "",
+      "img": "images/40.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/iaeP6TiYxw",
@@ -164,7 +181,7 @@ window.SITE = {
       "name": "미니 핸디 무선청소기",
       "cat": "청소",
       "desc": "차량 문틈과 컵홀더 등 좁은 틈새의 먼지와 부스러기를 간편하게 청소",
-      "img": "",
+      "img": "images/39.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/h6FdYbc2HQ",
@@ -181,7 +198,7 @@ window.SITE = {
       "name": "자동 거품 손세정기",
       "cat": "욕실",
       "desc": "손을 가까이 대면 센서가 감지해 거품이 자동으로 나오는 손세정기",
-      "img": "",
+      "img": "images/38.png",
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/h4m5R6VkhE",
@@ -198,7 +215,7 @@ window.SITE = {
       "name": "자동 전동 캔오프너",
       "cat": "주방",
       "desc": "버튼 하나로 캔 뚜껑을 자동으로 열어주는 전동 오프너",
-      "img": "",
+      "img": "images/37.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/h4k2SWVmbk",
@@ -214,7 +231,7 @@ window.SITE = {
       "name": "자동 밀봉 스마트 쓰레기통",
       "cat": "생활",
       "desc": "버튼 하나로 봉투 밀봉부터 새 봉투 세팅까지",
-      "img": "",
+      "img": "images/36.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/h2HuReg192",
@@ -230,7 +247,7 @@ window.SITE = {
       "name": "전동 채소·고추 슬라이서",
       "cat": "주방",
       "desc": "",
-      "img": "",
+      "img": "images/35.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hZGQvOhIMC",
@@ -246,7 +263,7 @@ window.SITE = {
       "name": "욕실 방수 휴대폰 거치대",
       "cat": "욕실",
       "desc": "",
-      "img": "",
+      "img": "images/34.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hWWBYGXrSC",
@@ -262,7 +279,7 @@ window.SITE = {
       "name": "무타공 높이조절 샤워기 거치대",
       "cat": "욕실",
       "desc": "",
-      "img": "",
+      "img": "images/33.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hVx0jLpbtQ",
@@ -278,7 +295,7 @@ window.SITE = {
       "name": "이불 진공 압축팩 + 전용펌프",
       "cat": "정리·수납",
       "desc": "",
-      "img": "",
+      "img": "images/32.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hVowupFZa8",
@@ -294,7 +311,7 @@ window.SITE = {
       "name": "필립스 GC026 보풀제거기",
       "cat": "세탁·의류",
       "desc": "",
-      "img": "",
+      "img": "images/31.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hQ6uDme5Dw",
@@ -310,7 +327,7 @@ window.SITE = {
       "name": "의류 얼룩 클리너 싹티슈",
       "cat": "세탁·의류",
       "desc": "",
-      "img": "",
+      "img": "images/30.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hQ5WFHxkGG",
@@ -326,7 +343,7 @@ window.SITE = {
       "name": "무선 고압세척기",
       "cat": "청소",
       "desc": "",
-      "img": "",
+      "img": "images/29.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hQ5MDj1ske",
@@ -342,7 +359,7 @@ window.SITE = {
       "name": "충전식 미니 실링기",
       "cat": "주방",
       "desc": "",
-      "img": "",
+      "img": "images/28.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hL8OWP5Jg4",
@@ -358,7 +375,7 @@ window.SITE = {
       "name": "1080도 회전 수도꼭지",
       "cat": "주방",
       "desc": "",
-      "img": "",
+      "img": "images/27.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hLmCYoLYKi",
@@ -374,7 +391,7 @@ window.SITE = {
       "name": "미니 스티치건",
       "cat": "세탁·의류",
       "desc": "",
-      "img": "",
+      "img": "images/26.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hQ5iDYSHKK",
@@ -390,7 +407,7 @@ window.SITE = {
       "name": "무선 전동 욕실청소기",
       "cat": "청소",
       "desc": "",
-      "img": "",
+      "img": "images/25.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hEjeUnJSW4",
@@ -406,7 +423,7 @@ window.SITE = {
       "name": "자석형 서랍 잠금장치",
       "cat": "안전",
       "desc": "",
-      "img": "",
+      "img": "images/24.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hEaezKahlA",
@@ -422,7 +439,7 @@ window.SITE = {
       "name": "스카트 유리거울티슈",
       "cat": "청소",
       "desc": "",
-      "img": "",
+      "img": "images/23.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hCR5HwHopU",
@@ -438,7 +455,7 @@ window.SITE = {
       "name": "다용도 회전트레이",
       "cat": "정리·수납",
       "desc": "",
-      "img": "",
+      "img": "images/22.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hzFnXqo8qa",
@@ -454,7 +471,7 @@ window.SITE = {
       "name": "전자레인지 푸드커버",
       "cat": "주방",
       "desc": "",
-      "img": "",
+      "img": "images/21.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hxOtO2yqbI",
@@ -470,7 +487,7 @@ window.SITE = {
       "name": "홈스타 파워세정티슈",
       "cat": "청소",
       "desc": "",
-      "img": "",
+      "img": "images/20.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hxKMPXZkHc",
@@ -486,7 +503,7 @@ window.SITE = {
       "name": "원터치 음식물 거름망",
       "cat": "주방",
       "desc": "",
-      "img": "",
+      "img": "images/19.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hDVHOx1EXI",
@@ -502,7 +519,7 @@ window.SITE = {
       "name": "우드 트리 냄비받침",
       "cat": "주방",
       "desc": "",
-      "img": "",
+      "img": "images/18.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hDVYIRLZh6",
@@ -518,7 +535,7 @@ window.SITE = {
       "name": "문손잡이 안전 잠금장치",
       "cat": "안전",
       "desc": "",
-      "img": "",
+      "img": "images/17.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hDV8eMS1L2",
@@ -534,7 +551,7 @@ window.SITE = {
       "name": "플스타 4in1 초퍼플러스",
       "cat": "주방",
       "desc": "",
-      "img": "",
+      "img": "images/16.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hDWgv8kA68",
@@ -550,7 +567,7 @@ window.SITE = {
       "name": "싱크대 걸이형 음식물 쓰레기통",
       "cat": "주방",
       "desc": "",
-      "img": "",
+      "img": "images/15.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hDWpBNZ8yi",
@@ -566,7 +583,7 @@ window.SITE = {
       "name": "자동 치약 디스펜서",
       "cat": "욕실",
       "desc": "",
-      "img": "",
+      "img": "images/14.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hDWze87MxU",
@@ -582,7 +599,7 @@ window.SITE = {
       "name": "모션 센서등",
       "cat": "생활",
       "desc": "",
-      "img": "",
+      "img": "images/13.png",
       "status": "public",
       "links": {
         "default": "https://link.coupang.com/a/hDWFh5f2dM",
