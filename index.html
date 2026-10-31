@@ -117,5 +117,13 @@ document.getElementById('chips').addEventListener('click',e=>{const b=e.target.c
 render();
 setInterval(()=>{if((S.products||[]).some(p=>p.publish_at))render()},30000);
 </script>
+<!-- BSP_ANALYTICS_V1 start -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BNFYKYD4ZE"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-BNFYKYD4ZE');</script>
+<script>
+/* 쿠팡에서 보기 버튼 클릭: 상품 번호 + 방문 플랫폼(utm_source, 없으면 direct)만 보낸다. 링크 주소는 바꾸지 않는다. */
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a.btn');if(!a)return;var c=a.closest('.card');var n=c&&c.querySelector('.no');var no=n?((n.textContent.match(/\d+/)||[''])[0]):'';var nm=c&&c.querySelector('.name');var name=nm?nm.textContent:'';var src=(typeof SRC!=='undefined'&&SRC)||'direct';try{if(window.gtag)gtag('event','coupang_click',{product_no:no,product_name:name,traffic_source:src});}catch(_){}},true);
+</script>
+<!-- BSP_ANALYTICS_V1 end -->
 </body>
 </html>
