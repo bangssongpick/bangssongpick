@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 30. 00:09:34)
+// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 12:39:49)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 46,
+      "name": "동전 훔치는 고양이 저금통",
+      "cat": "완구·취미",
+      "desc": "동전을 올리면 상자 속 고양이가 나와 동전을 가져가는 장난감 저금통",
+      "img": "",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/ihS4NehfOu",
+        "youtube": "https://link.coupang.com/a/ihV8f4UduS",
+        "instagram": "https://link.coupang.com/a/ihV8Msiqvk",
+        "facebook": "https://link.coupang.com/a/ihV88ZZgY0",
+        "tiktok": "https://link.coupang.com/a/ihV9zogxr3",
+        "threads": "https://link.coupang.com/a/ihV9W4pqCW"
+      },
+      "publish_at": "2026-11-02T17:50+09:00"
+    },
     {
       "no": 45,
       "name": "접이식 LED 캠핑 랜턴",
