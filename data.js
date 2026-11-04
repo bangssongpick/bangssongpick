@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 10. 31. 16:38:19)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 04. 21:03:05)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 51,
+      "name": "무중력 물방울 가습기",
+      "cat": "생활",
+      "desc": "물방울이 거꾸로 올라가는 착시 효과와 가습을 동시에 보여주는 화이트 가습기",
+      "img": "images/51.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/io5zpXSLue",
+        "youtube": "https://link.coupang.com/a/io9ThFOYSa",
+        "instagram": "https://link.coupang.com/a/io9TARRYEC",
+        "facebook": "https://link.coupang.com/a/io9UvnJm8W",
+        "tiktok": "https://link.coupang.com/a/io9TUc0GHc",
+        "threads": "https://link.coupang.com/a/io9UbYuPTw"
+      },
+      "publish_at": "2026-11-07T17:50+09:00"
+    },
     {
       "no": 50,
       "name": "레이저 프로젝션 가상 키보드",
