@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 04. 21:03:05)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 04. 21:36:22)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 52,
+      "name": "파스텔 왁뿌볼 왁스 크랙 스퀴시",
+      "cat": "완구·취미",
+      "desc": "손으로 누르면 겉면이 갈라지는 파스텔 왁뿌볼 스퀴시",
+      "img": "images/52.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/ipb1W9Weqa",
+        "youtube": "https://link.coupang.com/a/ipcfmulyG5",
+        "instagram": "https://link.coupang.com/a/ipcfEotFhk",
+        "facebook": "https://link.coupang.com/a/ipcgxQE2dE",
+        "tiktok": "https://link.coupang.com/a/ipcfUBtveC",
+        "threads": "https://link.coupang.com/a/ipcgd6G1AH"
+      },
+      "publish_at": "2026-11-08T17:50+09:00"
+    },
     {
       "no": 51,
       "name": "무중력 물방울 가습기",
