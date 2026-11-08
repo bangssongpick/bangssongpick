@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 04. 21:36:22)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 09. 04:32:38)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 53,
+      "name": "로보 피쉬 물고기 장난감",
+      "cat": "완구·취미",
+      "desc": "물에 넣으면 진짜처럼 헤엄치는 로봇 물고기 (색상 랜덤)",
+      "img": "images/53.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iwix8WqRFs",
+        "youtube": "https://link.coupang.com/a/iwjCnJ29BI",
+        "instagram": "https://link.coupang.com/a/iwjC0LzpIa",
+        "facebook": "https://link.coupang.com/a/iwjzcEdmgu",
+        "tiktok": "https://link.coupang.com/a/iwjyFZC3H2",
+        "threads": "https://link.coupang.com/a/iwjmJQ8AKa"
+      },
+      "publish_at": "2026-11-09T17:50+09:00"
+    },
     {
       "no": 52,
       "name": "파스텔 왁뿌볼 왁스 크랙 스퀴시",
