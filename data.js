@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 09. 04:32:38)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 09. 04:34:02)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -15,7 +15,7 @@ window.SITE = {
       "status": "hidden",
       "links": {
         "default": "https://link.coupang.com/a/iwix8WqRFs",
-        "youtube": "https://link.coupang.com/a/iwjCnJ29BI",
+        "youtube": "https://link.coupang.com/a/iwjEdRj7am",
         "instagram": "https://link.coupang.com/a/iwjC0LzpIa",
         "facebook": "https://link.coupang.com/a/iwjzcEdmgu",
         "tiktok": "https://link.coupang.com/a/iwjyFZC3H2",
