@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 10. 10:22:10)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 10. 19:53:59)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 55,
+      "name": "에어프라이어 냉동 멘보샤",
+      "cat": "식품",
+      "desc": "얼린 채 에어프라이어 180도 15~20분이면 겉은 바삭, 속은 통통한 새우살",
+      "img": "images/55.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iy0wTL54hg",
+        "youtube": "https://link.coupang.com/a/iy0xrLO4bY",
+        "instagram": "https://link.coupang.com/a/iy0zYZYqPY",
+        "facebook": "https://link.coupang.com/a/iy0A99zUAu",
+        "tiktok": "https://link.coupang.com/a/iy0AnNWkPA",
+        "threads": "https://link.coupang.com/a/iy0ALabTwG"
+      },
+      "publish_at": "2026-11-11T17:50+09:00"
+    },
     {
       "no": 54,
       "name": "손잡이 돌리는 사과 깎이",
