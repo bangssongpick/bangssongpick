@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 09. 04:34:02)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 10. 10:22:10)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 54,
+      "name": "손잡이 돌리는 사과 깎이",
+      "cat": "주방",
+      "desc": "손잡이만 돌리면 사과 껍질이 한 줄로 길게 깎이는 수동 사과 깎이",
+      "img": "images/54.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iym29xRpOC",
+        "youtube": "https://link.coupang.com/a/iym5fJbenc",
+        "instagram": "https://link.coupang.com/a/iym5H5oK6K",
+        "facebook": "https://link.coupang.com/a/iym6ZNxSAT",
+        "tiktok": "https://link.coupang.com/a/iym58XBiqi",
+        "threads": "https://link.coupang.com/a/iym6AORg72"
+      },
+      "publish_at": "2026-11-10T17:50+09:00"
+    },
     {
       "no": 53,
       "name": "로보 피쉬 물고기 장난감",
