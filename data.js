@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 10. 19:53:59)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 12. 18:06:14)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,22 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 56,
+      "name": "반건조 오징어",
+      "cat": "식품",
+      "desc": "냉동 600g 5미",
+      "img": "images/56.png",
+      "status": "public",
+      "links": {
+        "default": "https://link.coupang.com/a/iCeop1Nv5M",
+        "youtube": "https://link.coupang.com/a/iCeoRSJfzw",
+        "instagram": "https://link.coupang.com/a/iCepiJvCz6",
+        "facebook": "https://link.coupang.com/a/iCeqyqOTNA",
+        "tiktok": "https://link.coupang.com/a/iCepLguN3Y",
+        "threads": "https://link.coupang.com/a/iCeqbOg4d2"
+      }
+    },
     {
       "no": 55,
       "name": "에어프라이어 냉동 멘보샤",
