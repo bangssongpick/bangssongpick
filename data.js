@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 12. 18:06:14)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 12. 19:57:32)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 57,
+      "name": "실리콘 냄비 넘침 방지 덮개",
+      "cat": "주방용품",
+      "desc": "꽃잎형 실리콘 덮개 27.5cm",
+      "img": "images/57.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iClaSuRuhw",
+        "youtube": "https://link.coupang.com/a/iClrRuItUa",
+        "instagram": "https://link.coupang.com/a/iClsskIRqK",
+        "facebook": "https://link.coupang.com/a/iClt8XkhQ4",
+        "tiktok": "https://link.coupang.com/a/iCls7OYPhA",
+        "threads": "https://link.coupang.com/a/iCltE122PA"
+      },
+      "publish_at": "2026-11-13T17:50+09:00"
+    },
     {
       "no": 56,
       "name": "반건조 오징어",
