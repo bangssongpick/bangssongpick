@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 12. 20:44:01)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 12. 22:34:50)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 59,
+      "name": "버터 커팅 수납용기",
+      "cat": "주방",
+      "desc": "",
+      "img": "images/59.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iCwxERBIWa",
+        "youtube": "https://link.coupang.com/a/iCwyGTAy0i",
+        "instagram": "https://link.coupang.com/a/iCwy94TzYi",
+        "facebook": "https://link.coupang.com/a/iCwAA7onUO",
+        "tiktok": "https://link.coupang.com/a/iCwzEIQLPU",
+        "threads": "https://link.coupang.com/a/iCwz8rUfoO"
+      },
+      "publish_at": "2026-11-15T17:50+09:00"
+    },
     {
       "no": 58,
       "name": "무선 전동 전지가위",
