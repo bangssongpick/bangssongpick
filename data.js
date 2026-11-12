@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 12. 19:57:32)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 12. 20:44:01)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 58,
+      "name": "무선 전동 전지가위",
+      "cat": "원예용품",
+      "desc": "21V 배터리 2개·케이스 포함 40mm",
+      "img": "images/58.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iCnkm32b80",
+        "youtube": "https://link.coupang.com/a/iCnkUouZWu",
+        "instagram": "https://link.coupang.com/a/iCnllxJipg",
+        "facebook": "https://link.coupang.com/a/iCnmTr94iO",
+        "tiktok": "https://link.coupang.com/a/iCnlSlqnhQ",
+        "threads": "https://link.coupang.com/a/iCnmlmBSEe"
+      },
+      "publish_at": "2026-11-14T17:50+09:00"
+    },
     {
       "no": 57,
       "name": "실리콘 냄비 넘침 방지 덮개",
