@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 14. 09:49:30)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 14. 10:23:45)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 62,
+      "name": "차량용 비상 유리 망치",
+      "cat": "안전",
+      "desc": "",
+      "img": "images/62.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iE0FrOpgMm",
+        "youtube": "https://link.coupang.com/a/iE0FPzhh5E",
+        "instagram": "https://link.coupang.com/a/iE0GdQunDM",
+        "facebook": "https://link.coupang.com/a/iE0HONMETI",
+        "tiktok": "https://link.coupang.com/a/iE0GHXXmoe",
+        "threads": "https://link.coupang.com/a/iE0Ho7yksm"
+      },
+      "publish_at": "2026-11-18T17:50+09:00"
+    },
     {
       "no": 61,
       "name": "미니 무선 에어펌프",
