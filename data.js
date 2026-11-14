@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 14. 09:06:05)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 14. 09:48:34)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 61,
+      "name": "미니 무선 에어펌프",
+      "cat": "캠핑",
+      "desc": "",
+      "img": "images/61.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iEXtkW89yC",
+        "youtube": "https://link.coupang.com/a/iEXtM3F6rc",
+        "instagram": "https://link.coupang.com/a/iEXufGwYai",
+        "facebook": "https://link.coupang.com/a/iEXvGnltkq",
+        "tiktok": "https://link.coupang.com/a/iEXuJVGgOO",
+        "threads": "https://link.coupang.com/a/iEXvcoXEJ2"
+      },
+      "publish_at": "2026-11-17T17:50+09:00"
+    },
     {
       "no": 60,
       "name": "3D 펜",
