@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 12. 22:34:50)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 14. 09:04:21)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 60,
+      "name": "3D 펜",
+      "cat": "장난감",
+      "desc": "",
+      "img": "images/60.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iETyBDK524",
+        "youtube": "https://link.coupang.com/a/iETy2Jz4qy",
+        "instagram": "https://link.coupang.com/a/iETzsG6yyG",
+        "facebook": "https://link.coupang.com/a/iETAOAKpMq",
+        "tiktok": "https://link.coupang.com/a/iETMOnV7Om",
+        "threads": "https://link.coupang.com/a/iETNCFSoou"
+      },
+      "publish_at": "2026-11-16T17:50+09:00"
+    },
     {
       "no": 59,
       "name": "버터 커팅 수납용기",
