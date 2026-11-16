@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 16. 20:42:13)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 16. 21:31:57)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 64,
+      "name": "소형 레이저 각인기",
+      "cat": "완구·취미",
+      "desc": "",
+      "img": "images/64.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iI6yK3hoDk",
+        "youtube": "https://link.coupang.com/a/iI6yNEgt1o",
+        "instagram": "https://link.coupang.com/a/iI6yP9fs2C",
+        "facebook": "https://link.coupang.com/a/iI6ySOapB6",
+        "tiktok": "https://link.coupang.com/a/iI6yU9J6HI",
+        "threads": "https://link.coupang.com/a/iI6yXzO1Tw"
+      },
+      "publish_at": "2026-11-20T17:50+09:00"
+    },
     {
       "no": 63,
       "name": "가정용 전동 칼갈이",
