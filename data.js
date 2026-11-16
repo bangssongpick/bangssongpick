@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 14. 10:23:45)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 16. 20:42:13)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 63,
+      "name": "가정용 전동 칼갈이",
+      "cat": "주방",
+      "desc": "",
+      "img": "images/63.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iISJ1cOAcC",
+        "youtube": "https://link.coupang.com/a/iISJ3Djvz2",
+        "instagram": "https://link.coupang.com/a/iISJ5UOWqG",
+        "facebook": "https://link.coupang.com/a/iISJ8kG86K",
+        "tiktok": "https://link.coupang.com/a/iISKazlNDM",
+        "threads": "https://link.coupang.com/a/iISKc88X4m"
+      },
+      "publish_at": "2026-11-19T17:50+09:00"
+    },
     {
       "no": 62,
       "name": "차량용 비상 유리 망치",
