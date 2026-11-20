@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 20. 10:11:25)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 20. 14:51:30)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 67,
+      "name": "휴대용 전동 비데",
+      "cat": "욕실",
+      "desc": "물만 채워 연결하면 시원한 물줄기가 나오는 휴대용 전동 비데",
+      "img": "images/67.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iPhO8MzByS",
+        "youtube": "https://link.coupang.com/a/iPhPbgmFCC",
+        "instagram": "https://link.coupang.com/a/iPhPdKxCN2",
+        "facebook": "https://link.coupang.com/a/iPhPf3QhWe",
+        "tiktok": "https://link.coupang.com/a/iPhPiyDRqC",
+        "threads": "https://link.coupang.com/a/iPhPkOO2wu"
+      },
+      "publish_at": "2026-11-23T17:50+09:00"
+    },
     {
       "no": 66,
       "name": "전동 소금 후추 그라인더 세트",
