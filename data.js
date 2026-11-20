@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 19. 23:11:12)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 20. 10:11:25)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 66,
+      "name": "전동 소금 후추 그라인더 세트",
+      "cat": "주방",
+      "desc": "버튼만 누르면 소금·후추가 갈려 나오는 충전식 전동 그라인더 2개 세트",
+      "img": "images/66.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iOXN8E22fc",
+        "youtube": "https://link.coupang.com/a/iOXOaVq5ro",
+        "instagram": "https://link.coupang.com/a/iOXOdfiK60",
+        "facebook": "https://link.coupang.com/a/iOXOf58Q9c",
+        "tiktok": "https://link.coupang.com/a/iOXOjfrrNI",
+        "threads": "https://link.coupang.com/a/iOXOlPe2RU"
+      },
+      "publish_at": "2026-11-22T17:50+09:00"
+    },
     {
       "no": 65,
       "name": "자동 계란말이 요리레인지",
