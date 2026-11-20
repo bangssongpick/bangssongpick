@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 20. 14:51:30)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 20. 15:18:37)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 68,
+      "name": "반려동물 전동 발톱 연마기",
+      "cat": "생활",
+      "desc": "버튼 하나로 강아지 발톱을 동글동글 다듬는 충전식 전동 발톱 연마기",
+      "img": "images/68.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iPjLgykQvs",
+        "youtube": "https://link.coupang.com/a/iPjLiUyVEG",
+        "instagram": "https://link.coupang.com/a/iPjLlXhvZA",
+        "facebook": "https://link.coupang.com/a/iPjLonrjNI",
+        "tiktok": "https://link.coupang.com/a/iPjLqN9yY8",
+        "threads": "https://link.coupang.com/a/iPjLs7aCZg"
+      },
+      "publish_at": "2026-11-24T17:50+09:00"
+    },
     {
       "no": 67,
       "name": "휴대용 전동 비데",
