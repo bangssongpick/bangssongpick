@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 20. 16:20:33)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 22. 17:50:14)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 70,
+      "name": "자기부상 공중부양 화분",
+      "cat": "원예용품",
+      "desc": "받침 위에 올려두면 공중에 둥둥 떠 있는 자기부상 화분",
+      "img": "images/70.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iSOo5pJg0y",
+        "youtube": "https://link.coupang.com/a/iSOo74lLaK",
+        "instagram": "https://link.coupang.com/a/iSOpaAcoRo",
+        "facebook": "https://link.coupang.com/a/iSOpc7rjDU",
+        "tiktok": "https://link.coupang.com/a/iSOpfMVstw",
+        "threads": "https://link.coupang.com/a/iSOpigL2Yu"
+      },
+      "publish_at": "2026-11-26T17:50+09:00"
+    },
     {
       "no": 69,
       "name": "마그네틱 차량용 송풍구 거치대",
