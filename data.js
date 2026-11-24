@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 22. 17:50:14)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 24. 09:19:45)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 71,
+      "name": "싱크대 수전 걸이 수세미 선반",
+      "cat": "주방",
+      "desc": "수도꼭지에 끼워 걸어 수세미와 세제를 올려 두는 스테인리스 선반",
+      "img": "images/71.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iVxJpK1jl6",
+        "youtube": "https://link.coupang.com/a/iVxJr6wERo",
+        "instagram": "https://link.coupang.com/a/iVxJugtUSy",
+        "facebook": "https://link.coupang.com/a/iVxJwq1Mw8",
+        "tiktok": "https://link.coupang.com/a/iVxJyO06mq",
+        "threads": "https://link.coupang.com/a/iVxJBeMZYP"
+      },
+      "publish_at": "2026-11-27T17:50+09:00"
+    },
     {
       "no": 70,
       "name": "자기부상 공중부양 화분",
