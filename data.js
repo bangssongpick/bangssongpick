@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 25. 22:07:31)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 25. 22:11:07)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 73,
+      "name": "옷걸이형 제습제",
+      "cat": "생활",
+      "desc": "옷장 옷걸이 봉에 걸어두는 걸이형 제습제",
+      "img": "images/73.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iX5K09nN1M",
+        "youtube": "https://link.coupang.com/a/iX5K3vNZkq",
+        "instagram": "https://link.coupang.com/a/iX5K5TYBd6",
+        "facebook": "https://link.coupang.com/a/iX5K78ZuAC",
+        "tiktok": "https://link.coupang.com/a/iX5Law8Ozs",
+        "threads": "https://link.coupang.com/a/iX5LcPrG1I"
+      },
+      "publish_at": "2026-11-29T18:00+09:00"
+    },
     {
       "no": 72,
       "name": "끼우는 틈새 문풍지",
