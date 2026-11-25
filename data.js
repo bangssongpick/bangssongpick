@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 24. 09:19:45)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 25. 22:07:31)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 72,
+      "name": "끼우는 틈새 문풍지",
+      "cat": "생활",
+      "desc": "창틀 틈새에 가위로 잘라 끼우는 폼 문풍지",
+      "img": "images/72.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iX5u55JYEC",
+        "youtube": "https://link.coupang.com/a/iX5u8hGx2G",
+        "instagram": "https://link.coupang.com/a/iX5vaErah2",
+        "facebook": "https://link.coupang.com/a/iX5vcQ3380",
+        "tiktok": "https://link.coupang.com/a/iX5ve8Zvbg",
+        "threads": "https://link.coupang.com/a/iX5vhrLJBI"
+      },
+      "publish_at": "2026-11-28T18:00+09:00"
+    },
     {
       "no": 71,
       "name": "싱크대 수전 걸이 수세미 선반",
