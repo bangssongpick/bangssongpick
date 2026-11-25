@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 25. 22:11:07)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 25. 22:12:10)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 74,
+      "name": "욕실 벽걸이 온풍기",
+      "cat": "욕실",
+      "desc": "벽에 달아 쓰는 수건걸이 겸용 욕실 온풍기",
+      "img": "images/74.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/iX5PGfgAtE",
+        "youtube": "https://link.coupang.com/a/iX5PItmyIu",
+        "instagram": "https://link.coupang.com/a/iX5PKGg3Hw",
+        "facebook": "https://link.coupang.com/a/iX5PM2EewS",
+        "tiktok": "https://link.coupang.com/a/iX5PPngJQi",
+        "threads": "https://link.coupang.com/a/iX5PRVwejI"
+      },
+      "publish_at": "2026-11-30T18:00+09:00"
+    },
     {
       "no": 73,
       "name": "옷걸이형 제습제",
