@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 25. 22:13:22)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 28. 13:25:04)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 76,
+      "name": "욕실 바닥 청소솔",
+      "cat": "욕실",
+      "desc": "긴 손잡이로 밀어 쓰는 솔·고무 밀대 청소솔",
+      "img": "images/76.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/i0GXhwOhoa",
+        "youtube": "https://link.coupang.com/a/i0GXjSyYq4",
+        "instagram": "https://link.coupang.com/a/i0GXl8Y3mS",
+        "facebook": "https://link.coupang.com/a/i0GXoujFXU",
+        "tiktok": "https://link.coupang.com/a/i0GXqJGIPA",
+        "threads": "https://link.coupang.com/a/i0GXs4o2iO"
+      },
+      "publish_at": "2026-12-02T18:00+09:00"
+    },
     {
       "no": 75,
       "name": "바르는 곰팡이 제거 젤",
