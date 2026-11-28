@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 28. 13:26:04)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 28. 13:27:03)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 78,
+      "name": "뽀글이 퍼즐매트",
+      "cat": "생활",
+      "desc": "원하는 자리에 끼워 까는 뽀글이 조각 매트",
+      "img": "images/78.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/i2phEgheQC",
+        "youtube": "https://link.coupang.com/a/i2phGr1QBM",
+        "instagram": "https://link.coupang.com/a/i2phIJFGvY",
+        "facebook": "https://link.coupang.com/a/i2phKYYnNk",
+        "tiktok": "https://link.coupang.com/a/i2phNjG3DU",
+        "threads": "https://link.coupang.com/a/i2phPyxEJM"
+      },
+      "publish_at": "2026-12-04T18:00+09:00"
+    },
     {
       "no": 77,
       "name": "바지 칸막이 정리함",
