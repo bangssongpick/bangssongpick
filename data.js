@@ -1,4 +1,4 @@
-// 자동 등록 도구로 갱신한 파일 (2026. 11. 28. 13:25:04)
+// 자동 등록 도구로 갱신한 파일 (2026. 11. 28. 13:26:04)
 window.SITE = {
   "brand": {
     "name": "뱅쏭픽",
@@ -6,6 +6,23 @@ window.SITE = {
     "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
   },
   "products": [
+    {
+      "no": 77,
+      "name": "바지 칸막이 정리함",
+      "cat": "정리·수납",
+      "desc": "접은 바지를 한 칸씩 세워 넣는 칸막이 정리함",
+      "img": "images/77.png",
+      "status": "hidden",
+      "links": {
+        "default": "https://link.coupang.com/a/i2pa8nDxdc",
+        "youtube": "https://link.coupang.com/a/i2pbaBSbyC",
+        "instagram": "https://link.coupang.com/a/i2pbcPkn6a",
+        "facebook": "https://link.coupang.com/a/i2pbe3aleS",
+        "tiktok": "https://link.coupang.com/a/i2pbhpbgaG",
+        "threads": "https://link.coupang.com/a/i2pbjzilGK"
+      },
+      "publish_at": "2026-12-03T18:00+09:00"
+    },
     {
       "no": 76,
       "name": "욕실 바닥 청소솔",
